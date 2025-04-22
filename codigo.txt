@@ -11,3 +11,4 @@ alteração na branch staging
 	| Entrar |
 	| Sair |
 *Esqueceu a senha?*
+*
